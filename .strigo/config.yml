@@ -1,0 +1,8 @@
+# Classes exercises configuration
+---
+classes:
+  - exercises:
+      - file: "../1.md"
+        title: "I am so private!"
+      - file: "../2.md"
+        title: "Huh, right?! Mee too!"
