@@ -1,1 +1,1 @@
-# strigo-github-exercises-test
+# strigo-github-exercises-private
