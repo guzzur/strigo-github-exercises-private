@@ -3,6 +3,6 @@
 classes:
   - exercises:
       - file: "../1.md"
-        title: "I am so private!"
+        title: "Exercise #1"
       - file: "../2.md"
-        title: "Huh, right?! Mee too!"
+        title: "Exercise #2"
