@@ -1,3 +1,3 @@
 # strigo-github-exercises-private
 
-test
+@v0vs
