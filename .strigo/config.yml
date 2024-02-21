@@ -1,8 +1,15 @@
 # Classes exercises configuration
 ---
 classes:
-  - exercises:
-      - file: "../1.md"
-        title: "Exercise #1"
+  - class_id: "647484baff3236f9a6f11e5a"
+    exercises:
       - file: "../2.md"
         title: "Exercise #2"
+      - file: "../1.md"
+        title: "Exercise #1"
+  - class_id: "deadbeefdeadbeefdeadbeef"
+    exercises:
+      - file: "../2.md"
+        title: "Exercise #2"
+      - file: "../1.md"
+        title: "Exercise #1"
