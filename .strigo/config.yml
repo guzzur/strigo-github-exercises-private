@@ -13,3 +13,9 @@ classes:
         title: "Exercise #1"
       - file: "../2.md"
         title: "Exercise #2"
+  - class_id: "65bfd59ab5b3d82edbcfa070"
+    exercises:
+      - file: "../1.md"
+        title: "Exercise #1"
+      - file: "../2.md"
+        title: "Exercise #2"
