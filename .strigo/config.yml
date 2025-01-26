@@ -3,6 +3,6 @@
 classes:
   - exercises:
       - file: "../1.md"
-        title: "Exercise #1"
+        title: "Exercise #1 - test"
       - file: "../2.md"
         title: "Exercise #2"
