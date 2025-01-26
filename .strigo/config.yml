@@ -2,7 +2,7 @@
 ---
 classes:
   - exercises:
-      - file: "../2.md"
-        title: "Exercise #2"
       - file: "../1.md"
         title: "Exercise #1"
+      - file: "../2.md"
+        title: "Exercise #2"
