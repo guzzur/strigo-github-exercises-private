@@ -2,7 +2,7 @@ classes:
  - exercises:
      - file: "../1.md"
        title: "Practical Challenge"
-       exercise_type: "challenge"
+       exercise_type: "lab-challenge"
        scripts:
          - file: "../1.sh"
            lab_resource_index: 0
